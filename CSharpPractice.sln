@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "022026", "022026", "{AAC7D64B-67FD-49BB-A4C5-7B22664E8DFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "260216_CSharpPractice_1", "260216_CSharpPractice_1\260216_CSharpPractice_1.csproj", "{C679AA2F-A04E-4B00-9E74-1480924A8A8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C679AA2F-A04E-4B00-9E74-1480924A8A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C679AA2F-A04E-4B00-9E74-1480924A8A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C679AA2F-A04E-4B00-9E74-1480924A8A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C679AA2F-A04E-4B00-9E74-1480924A8A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C679AA2F-A04E-4B00-9E74-1480924A8A8E} = {AAC7D64B-67FD-49BB-A4C5-7B22664E8DFF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAAB5148-8952-49A8-84E3-40E1C132F52C}
+	EndGlobalSection
+EndGlobal
