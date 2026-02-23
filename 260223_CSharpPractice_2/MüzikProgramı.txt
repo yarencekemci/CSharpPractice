@@ -1,0 +1,32 @@
+﻿Şarkı Ekleme
+
+Kullanıcıdan şarkı adı al
+
+Listeye ekle
+
+“Şarkı eklendi” mesajı ver
+
+---
+
+Şarkıları Listeleme
+
+Liste boşsa:
+
+Henüz şarkı eklenmedi
+
+Doluysa tüm şarkıları alt alta yazdır
+
+---
+
+Random Şarkı Çalma
+
+Liste boşsa uyarı ver
+
+Değilse:
+
+Random sınıfı ile listeden rastgele bir şarkı seç
+
+Şu an çalıyor: X
+
+---
+
