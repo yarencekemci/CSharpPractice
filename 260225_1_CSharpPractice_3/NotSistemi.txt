@@ -1,0 +1,11 @@
+﻿Amaç:
+
+Method ile hesaplama + listeleme
+
+Methodlar
+
+NotEkle()
+
+OrtalamaHesapla()
+
+DurumGoster()
