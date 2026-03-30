@@ -1,0 +1,16 @@
+﻿Dışarıdan bir kelime alan
+
+Kelimenin tersini hesaplayan
+
+Hesaplanan ters kelimeyi geri döndüren
+
+bir method yazınız.
+
+Method adı: KelimeTersCevir
+
+Örnek:
+"yaren" → "neray"
+
+Ve bu sürekli çalışacak
+Kullanıcı kelime girene kadar program ters çevirecek
+Kullanıcı 1'e bastığında programdan çıkacak

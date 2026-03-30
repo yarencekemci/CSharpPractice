@@ -1,0 +1,13 @@
+﻿Parametre Alan Method
+
+Dışarıdan iki tam sayı alan
+
+Bu sayıların toplamını hesaplayıp ekrana yazdıran
+Bu sayıların çarpımını hesaplayıp ekrana yazdıran
+
+Geriye değer döndürmeyen (void)
+
+bir method yazınız ve Main içinde çağırınız.
+
+İstenen method adı: ToplamYazdir
+İStenen method adı: CarpimYazdir
