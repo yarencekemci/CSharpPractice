@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "260226_1_CSharpPractice_5",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "260324_1_CSharpPractice_TurDonusumleri", "260324_1_CSharpPractice_TurDonusumleri\260324_1_CSharpPractice_TurDonusumleri.csproj", "{77B3881E-676C-470D-BB17-CBC3ABFE034A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "260402_CSharpPractice_7", "260402_CSharpPractice_7\260402_CSharpPractice_7.csproj", "{51B52F8F-D0DF-4DB8-9CD5-A834FB86DDAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{77B3881E-676C-470D-BB17-CBC3ABFE034A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77B3881E-676C-470D-BB17-CBC3ABFE034A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77B3881E-676C-470D-BB17-CBC3ABFE034A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51B52F8F-D0DF-4DB8-9CD5-A834FB86DDAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B52F8F-D0DF-4DB8-9CD5-A834FB86DDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B52F8F-D0DF-4DB8-9CD5-A834FB86DDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B52F8F-D0DF-4DB8-9CD5-A834FB86DDAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +64,7 @@ Global
 		{98DFF1CE-BC88-4419-8B54-E48D9C2E3A10} = {AAC7D64B-67FD-49BB-A4C5-7B22664E8DFF}
 		{380DBA88-A4F9-4A86-9CD4-BAF9AE1B28E0} = {AAC7D64B-67FD-49BB-A4C5-7B22664E8DFF}
 		{77B3881E-676C-470D-BB17-CBC3ABFE034A} = {AAC7D64B-67FD-49BB-A4C5-7B22664E8DFF}
+		{51B52F8F-D0DF-4DB8-9CD5-A834FB86DDAB} = {AAC7D64B-67FD-49BB-A4C5-7B22664E8DFF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAAB5148-8952-49A8-84E3-40E1C132F52C}
